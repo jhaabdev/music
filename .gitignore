@@ -39,4 +39,4 @@ out/
 ### IOS ###
 .DS_Store
 
-application.properties
+local.properties
